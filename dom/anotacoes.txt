@@ -1,0 +1,14 @@
+caixa.innerHTML
+
+caixa.innerText = 'digitar o texto a ser alterado'
+// vai alterar o texto
+
+caixa[2].style.backgroundColor = 'tomato'
+
+for (let item in caixa){
+    console.log(item)
+}
+
+
+
+caixa[0].classList.remove('tomato')
